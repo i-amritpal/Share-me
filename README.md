@@ -29,3 +29,14 @@ Shareme is a dynamic Full Stack Social Media Application developed with React, T
 3. Commit changes: `git commit -am 'Add new feature'`
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request.
+
+## License:
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments:
+
+- Special thanks to the open-source community for their invaluable contributions.
+- Explore and enjoy the world of Full Stack Social Media Application development with Shareme!
+
+Feel free to contribute, report issues, or provide feedback! 🚀
