@@ -21,3 +21,11 @@ Shareme is a dynamic Full Stack Social Media Application developed with React, T
 - Gain hands-on experience in building a Full Stack Social Media Application.
 - Understand the integration of React, Tailwind CSS, and Sanity for dynamic web development.
 - Explore features like media sharing, liking, sharing, and commenting.
+
+## Contributing:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/new-feature`
+3. Commit changes: `git commit -am 'Add new feature'`
+4. Push to the branch: `git push origin feature/new-feature`
+5. Submit a pull request.
