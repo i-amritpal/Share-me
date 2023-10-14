@@ -15,3 +15,9 @@ Shareme is a dynamic Full Stack Social Media Application developed with React, T
 2. Navigate to the project directory: `cd shareme`
 3. Install dependencies: `npm install`
 4. Run the application: `npm start`
+
+## Learning Goals:
+
+- Gain hands-on experience in building a Full Stack Social Media Application.
+- Understand the integration of React, Tailwind CSS, and Sanity for dynamic web development.
+- Explore features like media sharing, liking, sharing, and commenting.
