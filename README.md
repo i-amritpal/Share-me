@@ -24,11 +24,17 @@ Shareme is a dynamic Full Stack Social Media Application developed with React, T
 
 ## Contributing:
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/new-feature`
-3. Commit changes: `git commit -am 'Add new feature'`
-4. Push to the branch: `git push origin feature/new-feature`
-5. Submit a pull request.
+  You can contribute by doing one of the following:
+  - Starring the repository ⭐
+  - Forking the repository 🍴
+      1. Fork the repository.
+      2. Create a new branch: `git checkout -b feature/new-feature`
+      3. Commit changes: `git commit -am 'Add new feature'`
+      4. Push to the branch: `git push origin feature/new-feature`
+      5. Submit a pull request.
+  - Creating an Issue ❌
+  - Creating a Pull Request ✔
+
 
 ## License:
 
